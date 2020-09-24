@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-redis" />
         <module name="springboot-mybatis" />
         <module name="springboot-swagger" />
         <module name="ww-mall-study" />
@@ -15,6 +16,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springboot-mybatis" options="-parameters" />
+      <module name="springboot-redis" options="-parameters" />
       <module name="springboot-swagger" options="-parameters" />
     </option>
   </component>
