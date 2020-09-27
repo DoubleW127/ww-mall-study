@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/springboot-swagger/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-redis/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-springsecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-springtask/pom.xml" />
       </list>
     </option>
   </component>

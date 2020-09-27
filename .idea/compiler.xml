@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot-springsecurity" />
-        <module name="springboot-redis" />
-        <module name="springboot-mybatis" />
-        <module name="springboot-swagger" />
         <module name="ww-mall-study" />
+        <module name="springboot-springsecurity" />
+        <module name="springboot-swagger" />
+        <module name="springboot-redis" />
+        <module name="springboot-springtask" />
+        <module name="springboot-mybatis" />
       </profile>
     </annotationProcessing>
   </component>
@@ -19,6 +20,7 @@
       <module name="springboot-mybatis" options="-parameters" />
       <module name="springboot-redis" options="-parameters" />
       <module name="springboot-springsecurity" options="-parameters" />
+      <module name="springboot-springtask" options="-parameters" />
       <module name="springboot-swagger" options="-parameters" />
     </option>
   </component>
